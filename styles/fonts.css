@@ -1,51 +1,6 @@
 
 @font-face {
   font-family: poppins;
-  src: url('../fonts/poppins-400-normal.woff') format('woff');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-n9;
-  src: url('../fonts/tk-myriad-pro-n9-900-normal.woff') format('woff');
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-n9;
-  src: url('../fonts/tk-myriad-pro-n9-900-normal.woff') format('woff');
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-n9;
-  src: url('../fonts/tk-myriad-pro-n9-900-normal.woff') format('woff');
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-i9;
-  src: url('../fonts/tk-myriad-pro-i9-900-italic.woff') format('woff');
-  font-weight: 900;
-  font-style: italic;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: poppins;
   src: url('../fonts/poppins-700-normal.woff') format('woff');
   font-weight: 700;
   font-style: normal;
@@ -54,6 +9,24 @@
 }
 
 @font-face {
+  font-family: poppins;
+  src: url('../fonts/poppins-400-normal.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: tk-myriad-pro-n7;
+  src: url('../fonts/tk-myriad-pro-n7-700-normal.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
   font-family: tk-myriad-pro-i9;
   src: url('../fonts/tk-myriad-pro-i9-900-italic.woff') format('woff');
   font-weight: 900;
@@ -63,18 +36,54 @@
 }
 
 @font-face {
-  font-family: tk-myriad-pro-n3;
-  src: url('../fonts/tk-myriad-pro-n3-300-normal.woff') format('woff');
-  font-weight: 300;
+  font-family: tk-myriad-pro-n9;
+  src: url('../fonts/tk-myriad-pro-n9-900-normal.woff') format('woff');
+  font-weight: 900;
   font-style: normal;
   font-display: swap;
   unicode-range: U+0-10FFFF;
 }
 
 @font-face {
-  font-family: tk-myriad-pro-i7;
-  src: url('../fonts/tk-myriad-pro-i7-700-italic.woff') format('woff');
+  font-family: tk-myriad-pro-i9;
+  src: url('../fonts/tk-myriad-pro-i9-900-italic.woff') format('woff');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: tk-myriad-pro-n7;
+  src: url('../fonts/tk-myriad-pro-n7-700-normal.woff') format('woff');
   font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: tk-myriad-pro-n9;
+  src: url('../fonts/tk-myriad-pro-n9-900-normal.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: tk-myriad-pro-n9;
+  src: url('../fonts/tk-myriad-pro-n9-900-normal.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: tk-myriad-pro-i9;
+  src: url('../fonts/tk-myriad-pro-i9-900-italic.woff') format('woff');
+  font-weight: 900;
   font-style: italic;
   font-display: swap;
   unicode-range: U+0-10FFFF;
@@ -102,132 +111,6 @@
   font-family: tk-myriad-pro-i4;
   src: url('../fonts/tk-myriad-pro-i4-400-italic.woff') format('woff');
   font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-i7;
-  src: url('../fonts/tk-myriad-pro-i7-700-italic.woff') format('woff');
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-i4;
-  src: url('../fonts/tk-myriad-pro-i4-400-italic.woff') format('woff');
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-i9;
-  src: url('../fonts/tk-myriad-pro-i9-900-italic.woff') format('woff');
-  font-weight: 900;
-  font-style: italic;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-n3;
-  src: url('../fonts/tk-myriad-pro-n3-300-normal.woff') format('woff');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-i7;
-  src: url('../fonts/tk-myriad-pro-i7-700-italic.woff') format('woff');
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-n7;
-  src: url('../fonts/tk-myriad-pro-n7-700-normal.woff') format('woff');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-n4;
-  src: url('../fonts/tk-myriad-pro-n4-400-normal.woff') format('woff');
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-i4;
-  src: url('../fonts/tk-myriad-pro-i4-400-italic.woff') format('woff');
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-i6;
-  src: url('../fonts/tk-myriad-pro-i6-600-italic.woff') format('woff');
-  font-weight: 600;
-  font-style: italic;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-i3;
-  src: url('../fonts/tk-myriad-pro-i3-300-italic.woff') format('woff');
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-n6;
-  src: url('../fonts/tk-myriad-pro-n6-600-normal.woff') format('woff');
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-i6;
-  src: url('../fonts/tk-myriad-pro-i6-600-italic.woff') format('woff');
-  font-weight: 600;
-  font-style: italic;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-n6;
-  src: url('../fonts/tk-myriad-pro-n6-600-normal.woff') format('woff');
-  font-weight: 600;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-i3;
-  src: url('../fonts/tk-myriad-pro-i3-300-italic.woff') format('woff');
-  font-weight: 300;
   font-style: italic;
   font-display: swap;
   unicode-range: U+0-10FFFF;
@@ -243,19 +126,10 @@
 }
 
 @font-face {
-  font-family: tk-myriad-pro-n7;
-  src: url('../fonts/tk-myriad-pro-n7-700-normal.woff') format('woff');
-  font-weight: 700;
+  font-family: tk-myriad-pro-n6;
+  src: url('../fonts/tk-myriad-pro-n6-600-normal.woff') format('woff');
+  font-weight: 600;
   font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: tk-myriad-pro-i3;
-  src: url('../fonts/tk-myriad-pro-i3-300-italic.woff') format('woff');
-  font-weight: 300;
-  font-style: italic;
   font-display: swap;
   unicode-range: U+0-10FFFF;
 }
@@ -264,6 +138,33 @@
   font-family: tk-myriad-pro-n6;
   src: url('../fonts/tk-myriad-pro-n6-600-normal.woff') format('woff');
   font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: tk-myriad-pro-i7;
+  src: url('../fonts/tk-myriad-pro-i7-700-italic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: tk-myriad-pro-i6;
+  src: url('../fonts/tk-myriad-pro-i6-600-italic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: tk-myriad-pro-n4;
+  src: url('../fonts/tk-myriad-pro-n4-400-normal.woff') format('woff');
+  font-weight: 400;
   font-style: normal;
   font-display: swap;
   unicode-range: U+0-10FFFF;
@@ -292,6 +193,60 @@
   src: url('../fonts/fontawesome-normal-normal.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: tk-myriad-pro-n6;
+  src: url('../fonts/tk-myriad-pro-n6-600-normal.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: tk-myriad-pro-i7;
+  src: url('../fonts/tk-myriad-pro-i7-700-italic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: tk-myriad-pro-i3;
+  src: url('../fonts/tk-myriad-pro-i3-300-italic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: tk-myriad-pro-i6;
+  src: url('../fonts/tk-myriad-pro-i6-600-italic.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: tk-myriad-pro-i4;
+  src: url('../fonts/tk-myriad-pro-i4-400-italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: tk-myriad-pro-i7;
+  src: url('../fonts/tk-myriad-pro-i7-700-italic.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
   font-display: swap;
   unicode-range: U+0-10FFFF;
 }
