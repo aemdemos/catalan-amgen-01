@@ -149,7 +149,7 @@
                 }
               ],
               "color": "rgb(0, 255, 0)",
-              "mapping": "columns",
+              "mapping": "cards",
               "customBlockName": ""
             }
           ],
