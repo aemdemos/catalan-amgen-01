@@ -1,0 +1,294 @@
+{
+  "url": "https://www.amgen.com",
+  "sanitizedPath": "/index",
+  "autoDetect": false,
+  "mapping": [
+    {
+      "id": "1",
+      "path": "/nav",
+      "sections": [
+        {
+          "id": "1-1",
+          "blocks": [
+            {
+              "id": "box-id--519531666",
+              "x": 0,
+              "y": 0,
+              "width": 2884,
+              "height": 60,
+              "xpath": "/html[1]/body[1]/header[1]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgb(148, 0, 211)",
+              "mapping": "header",
+              "customBlockName": ""
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "path": "/index",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-185265735",
+              "x": 0,
+              "y": 60,
+              "width": 2884,
+              "height": 1269,
+              "xpath": "/html[1]/body[1]/div[11]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgb(75, 0, 130)",
+              "mapping": "carousel",
+              "customBlockName": ""
+            },
+            {
+              "id": "box-id-185265766",
+              "x": 872,
+              "y": 1329,
+              "width": 1140,
+              "height": 1345,
+              "xpath": "/html[1]/body[1]/div[12]",
+              "layout": {
+                "numCols": 3,
+                "numRows": 3
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/section[1]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"component content spotlight-tiles\"]/div[@class=\"component-content\"]/div[@class=\"row\"]/section[@class=\"wb-tiles col-md-4 col-xs-12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/section[2]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"component content spotlight-tiles\"]/div[@class=\"component-content\"]/div[@class=\"row\"]/section[@class=\"wb-tiles col-md-4 col-xs-12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/section[3]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"component content spotlight-tiles\"]/div[@class=\"component-content\"]/div[@class=\"row\"]/section[@class=\"wb-tiles col-md-4 col-xs-12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/section[4]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"component content spotlight-tiles\"]/div[@class=\"component-content\"]/div[@class=\"row\"]/section[@class=\"wb-tiles col-md-4 col-xs-12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/section[5]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"component content spotlight-tiles\"]/div[@class=\"component-content\"]/div[@class=\"row\"]/section[@class=\"wb-tiles col-md-4 col-xs-12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/section[6]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"component content spotlight-tiles\"]/div[@class=\"component-content\"]/div[@class=\"row\"]/section[@class=\"wb-tiles col-md-4 col-xs-12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/section[7]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"component content spotlight-tiles\"]/div[@class=\"component-content\"]/div[@class=\"row\"]/section[@class=\"wb-tiles col-md-4 col-xs-12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/section[8]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"component content spotlight-tiles\"]/div[@class=\"component-content\"]/div[@class=\"row\"]/section[@class=\"wb-tiles col-md-4 col-xs-12\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[12]/div[1]/div[1]/section[9]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"component content spotlight-tiles\"]/div[@class=\"component-content\"]/div[@class=\"row\"]/section[@class=\"wb-tiles col-md-4 col-xs-12\"]"
+                }
+              ],
+              "color": "rgb(0, 0, 255)",
+              "mapping": "cards",
+              "customBlockName": ""
+            }
+          ],
+          "settings": {}
+        },
+        {
+          "id": "2-2",
+          "blocks": [
+            {
+              "id": "box-id-185265797",
+              "x": 0,
+              "y": 2715,
+              "width": 2884,
+              "height": 586,
+              "xpath": "/html[1]/body[1]/div[13]",
+              "layout": {
+                "numCols": 3,
+                "numRows": 2
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[13]/div[1]/div[1]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"m-recent-news recent-news-container\"]/div[@class=\"row recent-news-items\"]/div[@class=\"item column large-4 Latest-News-Heading medium-4 col-sm-12 col-lg-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[13]/div[1]/div[2]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"m-recent-news recent-news-container\"]/div[@class=\"row recent-news-items\"]/div[@class=\"item column large-4 medium-4 col-sm-12 col-md-6 col-lg-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[13]/div[1]/div[3]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"m-recent-news recent-news-container\"]/div[@class=\"row recent-news-items\"]/div[@class=\"item column large-4 medium-4 col-sm-12 col-md-6 col-lg-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[13]/div[2]/div[1]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"m-recent-news recent-news-container\"]/div[@class=\"row second-row\"]/div[@class=\"item column large-4 medium-4 col-sm-12 col-md-6 col-lg-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[13]/div[2]/div[2]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"m-recent-news recent-news-container\"]/div[@class=\"row second-row\"]/div[@class=\"item column large-4 medium-4 col-sm-12 col-md-6 col-lg-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[13]/div[2]/div[3]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"m-recent-news recent-news-container\"]/div[@class=\"row second-row\"]/div[@class=\"item column large-4 medium-4 col-sm-12 col-md-6 col-lg-4\"]"
+                }
+              ],
+              "color": "rgb(0, 255, 0)",
+              "mapping": "columns",
+              "customBlockName": ""
+            }
+          ],
+          "settings": {
+            "section-metadata-style": "recent-news"
+          }
+        },
+        {
+          "id": "2-3",
+          "blocks": [
+            {
+              "id": "box-id-185265828",
+              "x": 0,
+              "y": 3380,
+              "width": 2884,
+              "height": 286,
+              "xpath": "/html[1]/body[1]/div[14]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgb(255, 255, 0)",
+              "mapping": "defaultContent",
+              "customBlockName": ""
+            },
+            {
+              "id": "box-id-185265859",
+              "x": 0,
+              "y": 3666,
+              "width": 2884,
+              "height": 638,
+              "xpath": "/html[1]/body[1]/div[15]",
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "color": "rgb(255, 127, 0)",
+              "mapping": "hero",
+              "customBlockName": ""
+            },
+            {
+              "id": "box-id-185265890",
+              "x": 0,
+              "y": 4305,
+              "width": 2884,
+              "height": 345,
+              "xpath": "/html[1]/body[1]/div[16]",
+              "layout": {
+                "numCols": 3,
+                "numRows": 1
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[16]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"component container col-12 amgen-investor-careers-container\"]/div[@class=\"component-content\"]/div[@class=\"row component column-splitter\"]/div[@class=\"col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[16]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"component container col-12 amgen-investor-careers-container\"]/div[@class=\"component-content\"]/div[@class=\"row component column-splitter\"]/div[@class=\"col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[16]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "/html[@class=\"no-js wf-myriadpro-n9-active wf-myriadpro-i9-active wf-myriadpro-n7-active wf-myriadpro-i7-active wf-myriadpro-i4-active wf-myriadpro-n3-active wf-myriadpro-i3-active wf-myriadpro-n4-active wf-myriadpro-n6-active wf-myriadpro-i6-active wf-active\"]/body[@class=\"amgen_home mobile-device bodyclass mac-devicecrm\"]/div[@class=\"component container col-12 amgen-investor-careers-container\"]/div[@class=\"component-content\"]/div[@class=\"row component column-splitter\"]/div[@class=\"col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4\"]"
+                }
+              ],
+              "color": "rgb(148, 0, 211)",
+              "mapping": "cards",
+              "customBlockName": "cards (amgen-investor-careers-container)"
+            },
+            {
+              "id": "box-id-185265921",
+              "x": 0,
+              "y": 4730,
+              "width": 2884,
+              "height": 439,
+              "xpath": "/html[1]/body[1]/div[17]",
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[17]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"video-component\")/div[@class=\"component-content\"]/div[@class=\"row component column-splitter\"]/div[@class=\"col-sm-12 col-md-6 col-lg-6 col-xl-6\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[17]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"video-component\")/div[@class=\"component-content\"]/div[@class=\"row component column-splitter\"]/div[@class=\"col-sm-12 col-md-6 col-lg-6 col-xl-6\"]"
+                }
+              ],
+              "color": "rgb(255, 255, 0)",
+              "mapping": "cards",
+              "customBlockName": "cards (amgen-investor-careers-container)"
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "path": "/footer",
+      "sections": [
+        {
+          "id": "3-1",
+          "blocks": [
+            {
+              "id": "box-id--953139808",
+              "x": 0,
+              "y": 5269,
+              "width": 2884,
+              "height": 246,
+              "xpath": "/html[1]/body[1]/footer[1]",
+              "layout": {
+                "numCols": 3,
+                "numRows": 1
+              },
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"footer\")/div[@id=\"\"]/div[@class=\"quantum-footer__inner\"]/div[@class=\"quantum-quicklinks__column\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "id(\"footer\")/div[@id=\"\"]/div[@class=\"quantum-footer__inner\"]/div[@class=\"quantum-footer__links-row\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"footer\")/div[@id=\"\"]/div[@class=\"quantum-footer__inner\"]/div[@class=\"quantum-footer__logo-social-row\"]"
+                }
+              ],
+              "color": "rgb(75, 0, 130)",
+              "mapping": "columns",
+              "customBlockName": ""
+            }
+          ],
+          "settings": {}
+        }
+      ]
+    }
+  ]
+}
